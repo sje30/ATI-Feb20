@@ -32,6 +32,17 @@ can, and cannot do. (JVS)
 15:15-16:45 Using python for networks.
 
 
+## Computer requirements
+
+Please install python on your laptop; we recommend
+[Anaconda](https://docs.anaconda.com/anaconda/install/) to install all
+the prerequisites.  If you prefer, you can install
+[miniconda](https://docs.conda.io/en/latest/miniconda.html), and then
+install the following packages:
+
+```
+conda install numpy matplotlib spyder jupyter
+```
 
 # Things to do 
 
