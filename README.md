@@ -17,8 +17,10 @@ learning methods. No prior experience of deep learning/neural networks
 is required. The workshop will be mostly lectures followed by a lab
 session.
 
-# Suggested timetable
+# Timetable
 
+
+09:30-10:00 Arrival
 
 10:00-11:00 Inroduction: Deep Learning and AI: What it is, what it
 can, and cannot do. (JVS)
