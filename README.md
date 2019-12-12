@@ -1,6 +1,11 @@
 # ATI-Feb20
 
 
+## Eventbrite page
+
+[https://www.eventbrite.co.uk/e/training-introduction-to-deep-neural-networks-tickets-77315405459]
+(https://www.eventbrite.co.uk/e/training-introduction-to-deep-neural-networks-tickets-77315405459)
+
 # Description
 Speakers: Dr James V Stone, Dr Stephen J Eglen, Mr Lancelot da Costa
 
