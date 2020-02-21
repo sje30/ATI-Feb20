@@ -23,15 +23,15 @@ session.
 09:30-10:00 Arrival
 
 10:00-11:00 Inroduction: Deep Learning and AI: What it is, what it
-can, and cannot do. (JVS)
+can, and cannot do. (JVS) [slides](JVS_turingInstLec1_2019_v7.pptxsmall.pdf)
 
-11:00-12:00 Overiew: perceptrons and feature detectors (SJE)
+11:00-12:00 Overiew: perceptrons and feature detectors (SJE) [slides](sje-perceptron.pdf)
 
 12:00-13:00 Lunch
 
-13:00-14:00 Backprop: how it works (and how it fails). (JVS)
+13:00-14:00 Backprop: how it works (and how it fails). (JVS) [slides](JVS_turingInstLec2_2019_v4.pdf)
 
-14:00-15:00 Dimensionality reduction. (LDC)
+14:00-15:00 Dimensionality reduction. (LDC) [slides]()
 
 15:00-15:15 Break
 
