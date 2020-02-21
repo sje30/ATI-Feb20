@@ -52,6 +52,4 @@ conda install numpy matplotlib spyder jupyter
 
 # Things to do 
 
-- [ ] Book Jim's travel and accomm
-- [ ] Order Jim's book? send to ATI?  
-- [ ] fix mnist
+- [ ] upload files for lab
