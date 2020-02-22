@@ -31,7 +31,7 @@ can, and cannot do. (JVS) [slides](JVS_turingInstLec1_2019_v7.pptxsmall.pdf)
 
 13:00-14:00 Backprop: how it works (and how it fails). (JVS) [slides](JVS_turingInstLec2_2019_v4.pdf)
 
-14:00-15:00 Dimensionality reduction. (LDC) [slides](ATI Presentation.pdf)
+14:00-15:00 Dimensionality reduction. (LDC) [slides](ATI-Presentation.pdf)
 
 15:00-15:15 Break
 
