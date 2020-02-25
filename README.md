@@ -50,6 +50,12 @@ install the following packages:
 conda install numpy matplotlib spyder jupyter
 ```
 
+### Lab files
+
+1. No hidden layer [practical/xor.py](practical/xor.py)
+2. One hidden layer [practical/main.py](practical/main.py)
+3. [MNIST in Keras](https://raw.githack.com/sje30/dl2019/master/mnist/mnist_bp.html)
+
 # short link
 
 <http://bit.ly/eglen-ati>
