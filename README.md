@@ -56,6 +56,12 @@ conda install numpy matplotlib spyder jupyter
 2. One hidden layer [practical/main.py](practical/main.py)
 3. [MNIST in Keras](https://raw.githack.com/sje30/dl2019/master/mnist/mnist_bp.html)
 
+
+### Further reading
+
+[Deep Learning with Python](https://www.amazon.co.uk/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
+(or in R)
+
 # short link
 
 <http://bit.ly/eglen-ati>
