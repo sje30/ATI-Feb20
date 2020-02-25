@@ -23,7 +23,7 @@ session.
 09:30-10:00 Arrival
 
 10:00-11:00 Inroduction: Deep Learning and AI: What it is, what it
-can, and cannot do. (JVS) [slides](JVS_turingInstLec1_2019_v7.pptxsmall.pdf)
+can, and cannot do. (JVS) [slides](JVS_turingInstLec1_2020_v8.pdf)
 
 11:00-12:00 Overiew: perceptrons and feature detectors (SJE) [slides](sje-perceptron.pdf)
 
