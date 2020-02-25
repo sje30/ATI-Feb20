@@ -59,6 +59,8 @@ conda install numpy matplotlib spyder jupyter
 
 ### Further reading
 
+[Artificial Intelligence Engines](https://jim-stone.staff.shef.ac.uk/AIEngines/)
+
 [Deep Learning with Python](https://www.amazon.co.uk/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
 (or in R)
 
