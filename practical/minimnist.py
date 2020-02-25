@@ -467,7 +467,7 @@ y_train =y_train[indices_train,:] #select relevant digits in train labels
 x_test = x_test.reshape([10000,784]) #set each datapoint as a vector instead of a matrix
 x_test = x_test/np.max(x_test) #normalise training data
 y_t = y_test #create a copy
-y_test =np.zeros([len(y_test),10])
+y_test =np.zeros([len(y_test),len(digits)])
 for i in range(len(y_test)):
     if y_t[i] in digits:
         indices_test += [i]
@@ -503,7 +503,7 @@ epochs = 50
 batches = int(len(x_train)/16)
 
 #Optimisation scheme
-optim= 'SGD' #Adam or SGD
+optim= 'Adam' #Adam or SGD
 #Note: optim= 'SGD' and batches=1 corresponds to gradient descent
 
 # Train model
