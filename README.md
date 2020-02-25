@@ -50,6 +50,9 @@ install the following packages:
 conda install numpy matplotlib spyder jupyter
 ```
 
-# Things to do 
+# short link
 
-- [ ] upload files for lab
+<http://bit.ly/eglen-ati>
+
+
+
